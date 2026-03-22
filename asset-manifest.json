@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aura-music/static/css/main.30e14c4e.css",
+    "main.js": "/aura-music/static/js/main.e7fd6169.js",
+    "index.html": "/aura-music/index.html",
+    "main.30e14c4e.css.map": "/aura-music/static/css/main.30e14c4e.css.map",
+    "main.e7fd6169.js.map": "/aura-music/static/js/main.e7fd6169.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30e14c4e.css",
+    "static/js/main.e7fd6169.js"
+  ]
+}
